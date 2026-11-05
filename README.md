@@ -2,6 +2,10 @@
 
 A peer-tutoring platform for ESSEC students: students book sessions with top-performing classmates, tutors manage their requests and earnings, and the school tracks the programme's impact.
 
+https://github.com/user-attachments/assets/25d0703a-7325-4bd4-85ce-20d58869913a
+
+<p align="center"><sub>4-minute demo: sign-up, student dashboard and booking, tutor control centre, programme impact dashboard</sub></p>
+
 ## Why I built it
 
 This came out of a 3-day innovation challenge at ESSEC: design a service for ESSEC students and pitch it. Many students struggle in quantitative courses, while others who excel in them would happily earn money by teaching. TutorIN connects the two inside the school, with ESSEC email sign-up and school oversight.
